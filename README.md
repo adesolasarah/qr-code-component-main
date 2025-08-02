@@ -19,12 +19,12 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./image/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add your solution link here](#)
-- Live Site URL: [Add live site URL here](#)
+- Solution URL: [Add your solution link here](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-pf8f1-fDqy)
+- Live Site URL: [Add live site URL here](https://adesolasarah.github.io/qr-code-component-main/)
 
 ---
 
@@ -56,3 +56,16 @@ body {
   height: 100vh;
 }
 ```
+
+### Continued Development
+
+I plant to focus more on:
+
+- Improving responsive design skills.
+- Writing clean, maintainable CSS.
+- Working with CSS Grid in Future challenges.
+
+## Author
+
+- Frontend Mentor: [text](https://www.frontendmentor.io/profile/adesolasarah)
+  -Twitter Handle: theadesolasarah
